@@ -1,4 +1,4 @@
-# A group project of our University's course 'Data Mining', focused on building a lyrics search engine using Apache Lucene. The application includes a JavaFX-based graphical user interface with integrated web scraping functionality. For compatibility reasons, Java was used throughout the project. The dataset consists of 25,000 songs scraped from the A-Z Lyrics website.
+# A group project of our University's course 'Data Mining', focused on building a lyrics search engine using Apache Lucene. The application includes a JavaFX-based graphical user interface with integrated web scraping functionality. For compatibility reasons (Apache Lucene), Java was used throughout the project. The dataset consists of 25,000 songs scraped from the A-Z Lyrics website.
 
 ## About This Project
 
