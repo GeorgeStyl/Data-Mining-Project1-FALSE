@@ -9,3 +9,7 @@ The goal of this project is to build a search engine capable of storing, indexin
 Our search engine is based on a dataset of 25,000 songs, which were collected through web scraping from the website A-Z Lyrics. To facilitate user interaction, we also developed a graphical user interface (GUI) using JavaFX, which includes integrated web scraping functionality. Java was chosen as the main development language to ensure compatibility with the Lucene library.
 
 The project demonstrates the application of core data mining principles in combination with real-world technologies such as text indexing, information retrieval models, and web data extraction.
+
+
+## How to run
+The user must unzip the 'Data' zip
